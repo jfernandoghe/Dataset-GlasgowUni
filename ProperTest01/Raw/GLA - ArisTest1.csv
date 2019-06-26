@@ -1,0 +1,96 @@
+Consec,StartHz,Start,EndHz,End,Classification,Command
+1.00,105.00,2.01,110.00,2.02,ActivatingGoogleHome,"""Hey Google"""
+2.00,110.00,2.02,115.00,2.03,GoogleHomeSpeaking,-Google home activated
+3.00,115.00,2.03,140.00,2.08,InteractingWithGoogleHome,"""What's the weather for today?"""
+4.00,140.00,2.08,190.00,2.18,GoogleHomeSpeaking,-Google says weather
+5.00,250.00,2.30,260.00,2.32,ActivatingGoogleHome,"""Hey Google"""
+6.00,260.00,2.32,260.00,2.32,GoogleHomeSpeaking,-Google home activated
+7.00,260.00,2.32,255.00,2.31,InteractingWithGoogleHome,"""When are the next US elections?"""
+8.00,255.00,2.31,280.00,2.36,InteractingWithGoogleHome,"""When are the next US elections?"""
+9.00,280.00,2.36,315.00,2.43,GoogleHomeSpeaking,-Google says when are the next US elections
+10.00,370.00,2.54,190.00,3.08,Reading,*Participant reads
+11.00,220.00,3.14,225.00,3.15,WaitingForGoogleHome,...stand by...
+12.00,225.00,3.15,230.00,3.16,ActivatingGoogleHome,"""Hey Google"""
+13.00,230.00,3.16,235.00,3.17,GoogleHomeSpeaking,-Google home activated
+14.00,235.00,3.17,245.00,3.19,InteractingWithGoogleHome,"""Open voice calendar"""
+15.00,245.00,3.19,275.00,3.25,GoogleHomeSpeaking,-Google search thinks while participant waits
+16.00,275.00,3.25,300.00,3.30,GoogleHomeSpeaking,-Text version of voice calendar
+17.00,300.00,3.30,310.00,3.32,GoogleHomeSpeaking,-Welcome to voice calendar
+18.00,315.00,3.33,325.00,3.35,InteractingWithGoogleHome,"""I would like to add a new event"""
+19.00,330.00,3.36,340.00,3.38,GoogleHomeSpeaking,"-""Whats the day of the event?"""
+20.00,345.00,3.39,350.00,3.40,InteractingWithGoogleHome,"""Next monday"""
+21.00,355.00,3.41,365.00,3.43,GoogleHomeSpeaking,"-""At what time?"""
+22.00,365.00,3.43,370.00,3.44,InteractingWithGoogleHome,"""10 AM"""
+23.00,375.00,3.45,390.00,3.48,GoogleHomeSpeaking,"-""What is the name of the event"""
+24.00,390.00,3.48,400.00,3.50,InteractingWithGoogleHome,"""Programming course"""
+25.00,400.00,3.50,410.00,3.52,GoogleHomeSpeaking,"-""Whats the day of the event?"""
+26.00,410.00,3.52,445.00,3.59,,Cancel
+27.00,445.00,3.59,270.00,4.14,WaitingForGoogleHome,...stand by...
+28.00,275.00,4.15,280.00,4.16,ActivatingGoogleHome,"""Hey Google, open voice calendar"""
+29.00,290.00,4.18,330.00,4.26,GoogleHomeSpeaking,"-""Here's a test version of voice calendar, What would you like to do?"""
+30.00,330.00,4.26,340.00,4.28,InteractingWithGoogleHome," ""Create a new event"""
+31.00,345.00,4.29,355.00,4.31,GoogleHomeSpeaking,"-""Whats the day of the event?"""
+32.00,360.00,4.32,365.00,4.33,InteractingWithGoogleHome,"""Next monday"""
+33.00,370.00,4.34,375.00,4.35,GoogleHomeSpeaking,"-""At what time?"""
+34.00,380.00,4.36,385.00,4.37,InteractingWithGoogleHome,"""10 AM"""
+35.00,395.00,4.39,400.00,4.40,GoogleHomeSpeaking,"-""What is the name of the event"""
+36.00,405.00,4.41,410.00,4.42,InteractingWithGoogleHome,"""Introduction to programming"""
+37.00,415.00,4.43,425.00,4.45,GoogleHomeSpeaking,"-""Whats the day of the event?"""
+38.00,435.00,4.47,440.00,4.48,,"""Cancel"""
+39.00,440.00,4.48,295.00,5.09,WaitingForGoogleHome,...stand by...
+40.00,300.00,5.10,340.00,5.18,Reading,Reading
+41.00,370.00,5.24,405.00,5.31,Reading,Reading
+42.00,410.00,5.32,420.00,5.34,ActivatingGoogleHome,"""Hey Google, open voice calendar"""
+43.00,430.00,5.36,470.00,5.44,GoogleHomeSpeaking,"-""Here's a test version of voice calendar, What would you like to do?"""
+44.00,475.00,5.45,480.00,5.46,InteractingWithGoogleHome,"""Add a new event"""
+45.00,485.00,5.47,495.00,5.49,GoogleHomeSpeaking,"-""Whats the day of the event?"""
+46.00,500.00,5.50,510.00,5.52,InteractingWithGoogleHome,"""December 14th"""
+47.00,510.00,5.52,520.00,5.54,GoogleHomeSpeaking,"-""What is the time of the event"""
+48.00,525.00,5.55,530.00,5.56,InteractingWithGoogleHome,"""5 PM"""
+49.00,535.00,5.57,540.00,5.58,GoogleHomeSpeaking,"-""What is the name of the event"""
+50.00,300.00,6.00,310.00,6.02,InteractingWithGoogleHome,"""Jen's birthday party"""
+51.00,315.00,6.03,330.00,6.06,GoogleHomeSpeaking,"-""Would you like to set a reminder for this event"""
+52.00,335.00,6.07,340.00,6.08,InteractingWithGoogleHome,"""Yes, 2 days before"""
+53.00,355.00,6.11,360.00,6.12,GoogleHomeSpeaking,"-""Is this a repeating event?"""
+54.00,365.00,6.13,370.00,6.14,InteractingWithGoogleHome,"""No"""
+55.00,375.00,6.15,420.00,6.24,GoogleHomeSpeaking,"-""Event Jon birthday party will be set for december 14 at 5 PM. Reminder is set two days before the event. Do you want to save it?"""
+56.00,425.00,6.25,430.00,6.26,InteractingWithGoogleHome,"""Yes"""
+57.00,440.00,6.28,445.00,6.29,GoogleHomeSpeaking,"-""How long is this event repeating?"""
+58.00,460.00,6.32,465.00,6.33,,"""Cancel"""
+59.00,535.00,6.47,560.00,6.52,Reading,Reading
+60.00,590.00,6.58,355.00,7.01,Reading,Reading
+61.00,360.00,7.02,365.00,7.03,,CONFUSED
+62.00,370.00,7.04,380.00,7.06,Reading,Reading
+63.00,385.00,7.07,400.00,7.10,ActivatingGoogleHome,"""Hey Google, open voice calendar"""
+64.00,400.00,7.10,425.00,7.15,Free gaze,Free gaze
+65.00,425.00,7.15,455.00,7.21,GoogleHomeSpeaking,"-""Here's a test version of voice calendar, What would you like to do?"""
+66.00,460.00,7.22,470.00,7.24,InteractingWithGoogleHome,"""Do I have any events on saturday?"""
+67.00,475.00,7.25,480.00,7.26,Free gaze,Free gaze
+68.00,485.00,7.27,510.00,7.32,GoogleHomeSpeaking,"-""Event dinner with family on saturday june 29th at 7PM. What else would you like to do?"""
+69.00,515.00,7.33,520.00,7.34,InteractingWithGoogleHome,"""Nothing"""
+70.00,525.00,7.35,530.00,7.36,GoogleHomeSpeaking,"-""Thank you for using voice calendar"""
+71.00,530.00,7.36,555.00,7.41,Free gaze,Free gaze
+72.00,560.00,7.42,645.00,7.59,,False reading
+73.00,600.00,7.50,405.00,8.01,Reading,Reading
+74.00,405.00,8.01,425.00,8.05,WaitingForGoogleHome,...stand by...
+75.00,425.00,8.05,520.00,8.24,,CONFUSED
+76.00,520.00,8.24,545.00,8.29,ActivatingGoogleHome,"""Hey Google, open voice calendar"""
+77.00,555.00,8.31,585.00,8.37,GoogleHomeSpeaking,"-""Here's a test version of voice calendar, What would you like to do?"""
+78.00,595.00,8.39,605.00,8.41,InteractingWithGoogleHome,"""Do I have any events on monday?"""
+79.00,610.00,8.42,655.00,8.51,GoogleHomeSpeaking,"-""You have two events on monday July first. At 12 PM lunch with Jen, at 4 PM gym. What else would you like to do?"""
+80.00,660.00,8.52,670.00,8.54,InteractingWithGoogleHome,"""Add a new event"""
+81.00,675.00,8.55,680.00,8.56,GoogleHomeSpeaking,"-""What is the day of the event"""
+82.00,685.00,8.57,685.00,8.57,InteractingWithGoogleHome,"""Monday"""
+83.00,450.00,9.00,460.00,9.02,GoogleHomeSpeaking,"-""What is the time of the event"""
+84.00,465.00,9.03,470.00,9.04,InteractingWithGoogleHome,"""6 PM"""
+85.00,480.00,9.06,490.00,9.08,GoogleHomeSpeaking,"-""What is the name of the event"""
+86.00,495.00,9.09,505.00,9.11,InteractingWithGoogleHome,"""Visit family"""
+87.00,520.00,9.14,525.00,9.15,GoogleHomeSpeaking,"-""Would you like to set a reminder for this event"""
+88.00,530.00,9.16,540.00,9.18,InteractingWithGoogleHome,"""Yes, 10 min before the event"""
+89.00,545.00,9.19,555.00,9.21,GoogleHomeSpeaking,"-""Is this a repeating event?"""
+90.00,560.00,9.22,560.00,9.22,InteractingWithGoogleHome,"""No"""
+91.00,570.00,9.24,625.00,9.35,GoogleHomeSpeaking,"-""Event visit family would be set for July 1st 2019 at 6 PM, you would be reminded 10 minutes before the event. Do you want to save it?"
+92.00,630.00,9.36,635.00,9.37,InteractingWithGoogleHome,"""Yes"""
+93.00,640.00,9.38,650.00,9.40,GoogleHomeSpeaking,"-""How long is this event repeating?"""
+94.00,655.00,9.41,655.00,9.41,,"""Cancel"""
+95,660.00,9.42,310.00,11.52,WaitingForGoogleHome,...stand by...
